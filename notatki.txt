@@ -1,4 +1,4 @@
-tworzymy w¹tek
+tworzymy wÂ¹tek
 
 - request default / adres strony + port 80
 - cookies mengager / standard
@@ -10,3 +10,5 @@ tworzymy w¹tek
 http://math.uni.lodz.pl/~arekp/testowanie
 
 dodanie do brudnopisu "recording"
+
+.png i .jpg
