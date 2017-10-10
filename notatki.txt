@@ -10,5 +10,5 @@ tworzymy w¹tek
 http://math.uni.lodz.pl/~arekp/testowanie
 
 dodanie do brudnopisu "recording"
-
+dokumentacja techniczna - templates / recording
 .png i .jpg
