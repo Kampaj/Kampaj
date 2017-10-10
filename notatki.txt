@@ -1,0 +1,12 @@
+tworzymy w¹tek
+
+- request default / adres strony + port 80
+- cookies mengager / standard
+- http request
+
+-widok: view resault in table
+
+
+http://math.uni.lodz.pl/~arekp/testowanie
+
+dodanie do brudnopisu "recording"
