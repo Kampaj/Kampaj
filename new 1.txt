@@ -1,0 +1,27 @@
+<html>
+<head>
+<script type="text/javascript">
+
+
+var c=document.getElementById("myCanvas");
+var ctx=c.getContext("2d");
+ctx.beginPath();
+ctx.arc(100,75,50,0,2*Math.PI);
+ctx.stroke();
+
+</script>
+</head>
+
+
+<body>
+<!--okreœlamy wymiary p³ótna, na którym bêd¹ rysowane obrazy -->
+<canvas id="canvas" width='150' height='150'>
+<p>Sorry: Browser does not support Graphics Canvas</p>
+</canvas>
+<br />
+
+<button onclick="draw();">Rysuj</button>
+<button onclick="clear_canvas();">Wyczyœæ p³ótno</button> 
+
+</body>
+</html>
