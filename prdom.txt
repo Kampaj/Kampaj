@@ -1,0 +1,3 @@
+1. napisz test plan z oczekiwanym wynikiem sukcesu i porazki
+2. testowanie dowolnej strony z logowaniem
+3. dane do logowania z csv
